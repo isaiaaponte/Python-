@@ -29,4 +29,8 @@ habits?
 Age? Income? Certain types of goods? Family status?
 10. What differences can you find in ordering habits of different customer
 profiles? Consider the price of orders, the frequency of orders, and the products
-customers are ordering. 
+customers are ordering.
+
+# Data Sets 
+The data sets are open-source from Instacart, as well as one provided by Career Foundry. 
+The data contains information on customers, orders and products. 
